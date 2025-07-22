@@ -1,0 +1,17 @@
+select * from hospital
+select name from hospital where  patient_id=101
+update hospital set name='eddy' where  patient_id=101
+select medical_history from hospital where name='eddy'
+update hospital set medical_history='discharged'where name='eddy'
+select * from hospital
+
+delete from hospital where patient_id=102
+select * from hospital
+
+
+
+
+
+
+
+

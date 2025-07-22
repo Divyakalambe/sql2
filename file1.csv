@@ -1,0 +1,13 @@
+select * from attendence
+select class from attendence where attence_id>=2220
+ update attendence set class='9th' where attence_id>=2220
+
+select * from attendence
+
+
+delete from attendence where rollno='15'
+ rollback
+
+
+
+

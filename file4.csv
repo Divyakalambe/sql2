@@ -1,0 +1,19 @@
+select * from productt
+
+select product_name from productt where price<=900
+
+update productt set product_name='cattel' where price=900
+select* from productt
+
+delete from productt where price<=900
+select * from productt
+select product_id from productt where category_id=22
+update productt set product_id=404 where category_id=22
+select * from productt
+
+
+
+
+
+
+

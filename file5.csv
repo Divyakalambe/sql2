@@ -1,0 +1,27 @@
+select * from school
+select age from school where experiance<=5
+update school set subject='science' where experiance<=5
+select * from school
+select subject from school where periods=20
+
+update school set subject='math', where periods=20
+select * from school
+update school set doj='2021-12-17'where id=3
+select * from school
+delete from school where experiance<=5
+select * from school
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+"id","teacher_name","age","gender","subject","doj","periods","experiance","email","phn_no"
+13,"Meena Kumari",29,"F","Sanskrit","2023-07-01",12,7,"meena13@gmail.com",45679
+2,"Rahul Sharma",32,"M","math","2022-07-15",20,8,"rahul2@gmail.com",23456
+6,"Vikas Mehra",31,"M","math","2022-11-25",20,7,"vikas6@gmail.com",67890
+8,"Manoj Kumar",34,"M","math","2020-08-14",20,10,"manoj8@gmail.com",89012
+9,"Kavita Joshi",30,"F","math","2023-02-05",20,6,"kavita9@gmail.com",90123
+12,"Arjun Yadav",36,"M","math","2020-03-09",20,13,"arjun12@gmail.com",34568
+14,"Ramesh Singh",32,"M","math","2022-10-11",20,8,"ramesh14@gmail.com",56780
+4,"Amit Patel",35,"M","math","2020-01-20",20,12,"amit4@gmail.com",45678
+10,"Suresh Rao",40,"M","math","2022-04-22",20,9,"suresh10@gmail.com",12346
+3,"Priya Singh",29,"F","Science","2021-12-17",11,6,"priya3@gmail.com",34567

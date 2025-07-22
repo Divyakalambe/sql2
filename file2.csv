@@ -1,0 +1,24 @@
+select * from cloth
+
+select brand from cloth where product_id>=111
+
+update cloth set trasportation = 'porter'  where product_id>=111
+
+select * from cloth
+
+delete from cloth where product_type ='suits'
+
+select tag_applience from cloth where date_manifacture='2021-06-16'
+
+update cloth set tag_applience='yes' where date_manifacture='2021-06-16'
+
+select * from cloth
+
+
+
+
+
+
+
+
+
